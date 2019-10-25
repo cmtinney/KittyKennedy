@@ -12,8 +12,12 @@
 * Collaborated with client and teammates to determine an agile UX design plan
 * Conducted surveys and interviews to collect both qualitative and quantitative data
 * Synthesized research findings in order to make informed design decisions
-* Executed user testing of wireframe website model to determine points for improvement &nbsp;  
-**Freelance Motion Graphics Specialist** | Cake Kitty Design | Feb 2018 - Present &nbsp;  
+* Executed user testing of wireframe website model to determine points for improvement  
+
+
+**Freelance Motion Graphics Specialist** | Cake Kitty Design | Feb 2018 - Present  
+
+
 * Collaborate with clients to develop animated logo, lower thirds, and explainer graphics
 * Create motion graphics package to standardize video content across organizations
 * Work with clients to develop concept sketches, storyboarding, and sample animations
