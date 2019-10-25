@@ -7,7 +7,8 @@
 **Software:** Adobe After Effects, Sketch, InVision, Illustrator, InDesign, Photoshop, Premiere, Final Cut, Dreamweaver, Maya, Unity, Camtasia, Media Encoder, Smartsheet, Trello  
 ***
 **Experience:**  
-&nbsp;  
+
+
 **UX Researcher** | Everly | April 2019 - May 2019
 * Collaborated with client and teammates to determine an agile UX design plan
 * Conducted surveys and interviews to collect both qualitative and quantitative data
