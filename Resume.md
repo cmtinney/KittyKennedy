@@ -1,8 +1,8 @@
 ## Kitty Kennedy
 #### kitty@cakekitty.com | Bellevue, WA | CakeKitty.com | linkedin.com/in/kittykennedy
----
+***
 #### UX Visual Designer specializing in digital animation, graphic design, and project management.
----
+***
 **Skills:** Digital 2D and 3D animation, graphic design, print design, UX research, prototyping, video editing, photography, HTML/CSS, sketching, storyboarding, and copywriting  
 **Software:** Adobe After Effects, Sketch, InVision, Illustrator, InDesign, Photoshop, Premiere, Final Cut, Dreamweaver, Maya, Unity, Camtasia, Media Encoder, Smartsheet, Trello  
 ***
@@ -63,3 +63,10 @@
 * Analyzed sales and behavioral data to maximize social media content and featured weekly specials
 * Photographed and produced all promotional materials for online and print ads
 * Designed and created effective print content including: menus, order forms, and stickers
+
+***
+**Education:**
+
+
+General Assembly: Seattle | UX Design Immersive Bootcamp  
+Bellevue College | AA Digital Media Arts: Motion Graphics / Animation & Web Design
